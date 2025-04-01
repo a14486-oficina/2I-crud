@@ -14,7 +14,6 @@ As funções no meu projeto são:
 
 # Como implementar
 
-  1. Aceder ao <a href="http://www.alojamento-gratis.com/?i=1" target="_blank" rel="noopener noreferrer">Alojamento Grátis</a>
-
-  2. Criar 
+  1. Aceder ao [Alojamento Grátis](http://www.alojamento-gratis.com/?i=1)
+  2.  Criar 
   
