@@ -14,6 +14,7 @@ As funções no meu projeto são:
 
 # Como implementar
 
-  1. Aceder ao [alojamento grátis](http://www.alojamento-gratis.com/?i=1){:target="_blank"}
+  1. Aceder ao <a href="http://www.alojamento-gratis.com/?i=1" target="_blank" rel="noopener noreferrer">Alojamento Grátis</a>
+
   2. Criar 
   
