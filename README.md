@@ -23,4 +23,8 @@ As funções no meu projeto são:
   5. Ir ao email, e clicar no link da nossa página web. <b>Obserevação</b>: o email pode estar no spam. <br>
   6. Clicar no link que corresponde ao CPanel e deve colocar o username respetivo ao CPanel e a palavra-passe que defeniu. <br>
   7. Clicar no botão "I approve". <br>
-  8. Clicar em "Online File Maneger"
+  8. Clicar em "Online File Maneger" <br>
+  9. Ciar uma nova pasta ou usar a pasta htdocs e colocar os ficheiros, exeto o ficheiro da base de dados. <br>
+  10. Voltar ao CPanel e clicar em "MySQL Databases". <br>
+  11. Dar um nome a base de dados e clicar no botão "Create Database". <br>
+  
