@@ -20,4 +20,4 @@ As funções no meu projeto são:
   3. Descer a página até aparecer o botão "Peça já o seu alojamento web grátis" e clicar no botão
   <img src="https://drive.google.com/uc?export=view&id=1ZGt2M5eORxPp5ZuJY_URnTff6OlZ6U3v" alt="Peça já o seu alojamento grátis" width="500">
   4. Preencher os dados do resgisto e clicar no botão para continuar
-  5. Ir ao email, e clicar no link da nossa página web. __Obserevação__: o email pode estar no spam
+  5. Ir ao email, e clicar no link da nossa página web. **Obserevação**: o email pode estar no spam
