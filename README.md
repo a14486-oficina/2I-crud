@@ -13,4 +13,7 @@ As funções no meu projeto são:
   2. **Alojamento Web** - Alojamento Grátis
 
 # Como implementar
+
+  1. Aceder ao [alojamento grátis](http://www.alojamento-gratis.com/?i=1)
+  2. Criar 
   
