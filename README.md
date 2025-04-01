@@ -16,7 +16,9 @@ As funções no meu projeto são:
 
   1. Aceder ao [Alojamento Grátis](http://www.alojamento-gratis.com/?i=1)
   2. Clicar em "alojamento web grátis", na navbar no topo da página
-   <img src="https://drive.google.com/uc?export=view&id=1DDQZxnMBm5BMopwWacAh_gkH45UYIBxu" alt="Alojamento Web grátis" width="500">
+  <img src="https://drive.google.com/uc?export=view&id=1DDQZxnMBm5BMopwWacAh_gkH45UYIBxu" alt="Alojamento Web grátis" width="500">
+  3. Descer a página até aparecer o botão "Peça já o seu alojamento web grátis" e clicar no botão
+  <img src="https://drive.google.com/file/d/1ZGt2M5eORxPp5ZuJY_URnTff6OlZ6U3v/view?usp=drive_link" alt="Peça já o seu alojamento grátis" width="500">
 
 
   
