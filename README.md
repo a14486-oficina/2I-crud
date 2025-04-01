@@ -15,5 +15,7 @@ As funções no meu projeto são:
 # Como implementar
 
   1. Aceder ao [Alojamento Grátis](http://www.alojamento-gratis.com/?i=1)
-  2.  Criar 
+  2. Clicar em "alojamento web grátis", na navbar no topo da página
+  <img src="https://drive.google.com/file/d/1DDQZxnMBm5BMopwWacAh_gkH45UYIBxu/view?usp=drive_link" alt="Imagem Web Grátis" width="100">
+
   
