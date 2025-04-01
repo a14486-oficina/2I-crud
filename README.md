@@ -14,6 +14,6 @@ As funções no meu projeto são:
 
 # Como implementar
 
-  1. Aceder ao [alojamento grátis](http://www.alojamento-gratis.com/?i=1)
+  1. Aceder ao [alojamento grátis](http://www.alojamento-gratis.com/?i=1){:target="_blank"}
   2. Criar 
   
