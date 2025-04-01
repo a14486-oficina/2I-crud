@@ -6,8 +6,8 @@ Neste projeto é possível
 As funções no meu projeto são:
 
 # Requesitos
-  -> **Base de dados** - phpMyAdmin
-  -> **Alojamento Web** - Alojamento Grátis
+  1. **Base de dados** - phpMyAdmin
+  2. **Alojamento Web** - Alojamento Grátis
 
 # Como implementar
   
