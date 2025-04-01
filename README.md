@@ -1,9 +1,12 @@
 # 2I-CRUD
-Este é um projeto simples desenolvivdo em ambiente escolar. Neste projeto criei uma página web, com o sistema CRUD, com o objetivo de simular a visão de um admin que gere um menu online, podendo criar, mostrar, atualizar e apagar os produtos.
+Este é um projeto simples desenolvivdo em ambiente escolar. Neste projeto criei uma página web, com o sistema CRUD, com o objetivo de simular a visão de um admin que gere um menu online. podendo criar, mostrar, atualizar e apagar os produtos.
 
 # Funções
 Neste projeto é possível
 As funções no meu projeto são:
+  1. Criar um produto
+  2. Editar um produto
+  3. Remover um produto
 
 # Requesitos
   1. **Base de dados** - phpMyAdmin
