@@ -22,4 +22,5 @@ As funções no meu projeto são:
   4. Preencher os dados do resgisto e clicar no botão para continuar. <br>
   5. Ir ao email, e clicar no link da nossa página web. <b>Obserevação</b>: o email pode estar no spam. <br>
   6. Clicar no link que corresponde ao CPanel e deve colocar o username respetivo ao CPanel e a palavra-passe que defeniu. <br>
-  7. 
+  7. Clicar no botão "I approve". <br>
+  8. Clicar em "Online File Maneger"
