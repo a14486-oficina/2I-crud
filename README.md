@@ -48,5 +48,9 @@ As funções no meu projeto são:
   12. Clicar no botão admin, respetivo a base de dados criada, na tabela em baixo. <br>
   13. Clicar em "Importar", na navbar. <br>
   14. Clicar no botão "Escolher ficheiro" e selecionar o ficheiro .sql, que foi disponibilizado. <br>
+  15. Voltar ao menu "MySQL Database", para verificar os dados de acesso da base de dados.
+  16. Ir ao "Online File Maneger", ir a pasta em que colocou os ficheiros e abrir o ficheiro config.php e colocar os dados de acesso a base de dados. <b>Observação</b>: No MySQL Database, o primeiro campo representa o último campo do ficheiro config.php, o último campo do MySQL representa o primeiro campo do ficheiro.php e os dois campos do meio mantêm-se igual, por fim deve <b>salvar o ficheiro</b> config.php.
+  17. Para acabar deves aceder a página web, o link está no email enviado, ao criar a conta. <b>Observação</b>: Tem que colocar, depois do fim do link, o seguinte complemento "/nome da pasta/nome do ficheiro(neste caso "admin_page.php")"
+
   
   
