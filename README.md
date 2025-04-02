@@ -40,9 +40,11 @@ As funções deste projeto são:
   <img src="https://drive.google.com/uc?export=view&id=1iB9GwaRlMX6MFJM3_ddsPnYP0e-di2gm" alt="Formulário" width="500">
   5. Ir ao email, e clicar no link da nossa página web. <b>Obserevação</b>: o email pode estar no spam. <br>
   <img src="https://drive.google.com/uc?export=view&id=155rerKVtiixYO0ntPBlRbXRPPPCNSxij" alt="Link no email" width="500">
-
   6. Clicar no link que corresponde ao CPanel e deve colocar o username respetivo ao CPanel e a palavra-passe que defeniu. <br>
+  <img src="https://drive.google.com/uc?export=view&id=1iKf33ijzhh6RxeoHCv63afD-HRywMTFx" alt="Link correspondente ao CPanel" width="500">
+  <img src="https://drive.google.com/uc?export=view&id=1o_kgsagXV5g6RdIcvmMI2o-XssbUIY2X" alt="Login no CPanel" width="500">
     6.1 <b>Este passo só se aplica se você já tem conta criada</b> - Clicar em "Login" na navbar e deve colocar o username respetivo ao CPanel e a palavra-passe que defeniu. <br>
+    <img src="https://drive.google.com/uc?export=view&id=1o_kgsagXV5g6RdIcvmMI2o-XssbUIY2X" alt="Login no CPanel" width="500">
   7. Clicar no botão "I approve". <b>Observação</b>: Faça este passo caso seja a primeira <b>pode saltar este passo</b><br>
   8. Clicar em "Online File Maneger" <br>
   9. Ciar uma nova pasta ou usar a pasta htdocs e colocar os ficheiros, exeto o ficheiro da base de dados. <br>
