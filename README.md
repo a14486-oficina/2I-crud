@@ -35,7 +35,7 @@ As funções deste projeto são:
   2. Clicar em "alojamento web grátis", na navbar no topo da página. <b>Observação</b>: Se tiveres conta criada podes <b>saltar para o passo 6.1.</b>
   <br>
   <img src="https://drive.google.com/uc?export=view&id=1DDQZxnMBm5BMopwWacAh_gkH45UYIBxu" alt="Alojamento Web grátis" width="500">
-  3. Descer a página até aparecer o botão "Peça já o seu alojamento web grátis" e clicar no botão.
+  3. Descer a página até aparecer o botão "Peça já o seu alojamento web grátis" e clicar no botão. <br>
   <br>
   <img src="https://drive.google.com/uc?export=view&id=1ZGt2M5eORxPp5ZuJY_URnTff6OlZ6U3v" alt="Peça já o seu alojamento grátis" width="500">
   4. Preencher os dados do resgisto e clicar no botão para continuar. <br>
