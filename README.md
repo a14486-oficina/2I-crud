@@ -13,21 +13,20 @@ As funções no meu projeto são:
   2. **Alojamento Web** - Alojamento Grátis
 # Estrutura de Fichieros
 ```bash
-├── /css/                     # Pasta que guarda o css
-      ├── style.css           # Arquivo de css
-├── /db/                      # Pasta que guarda a base de dados
-      ├── cart_db.sql         # Arquivo de base de dados
-├── /images/                  # Pasta que guarda as imagens que podem ser usadas(opcional)
-      ├── food-1.png          # Arquivo de foto
-      ├── food-2.png          # Arquivo de foto
-      ├── food-3.png          # Arquivo de foto
-      ├── food-4.png          # Arquivo de foto
-      ├── food-5.png          # Arquivo de foto
-├── /uploaded_img/            # Pasta que guarda imagens que foram enviadas para a base de dados
-├── admin_page.php            # Página principal do site
-├── admin_update.php          # Página para adicionar produto
-├── config.php                # Página para conectar a base de dados
-└── README.md                 # Este arquivo
+├── /css/                     # Pasta que guarda o ficheiro .css
+      ├── style.css           # Ficheiro .css (estilo da página web)
+├── /db/                      # Pasta que guarda o ficheiro .sql 
+      ├── cart_db.sql         # Ficheiro .sql (base de dados)
+├── /images/                  # Pasta que guarda as imagens que podem ser usadas na página web(opcional)
+      ├── food-1.png          # Ficheiro da foto
+      ├── food-2.png          # Ficheiro da foto
+      ├── food-3.png          # Ficheiro da foto
+      ├── food-4.png          # Ficheiro da foto
+      ├── food-5.png          # Ficheiro da foto
+├── /uploaded_img/            # Pasta que guarda as imagens que forem enviadas para a base de dados
+├── admin_page.php            # Ficheiro principal
+├── admin_update.php          # Ficheiro para dar update de um produto
+└── config.php                # Ficheiro para conectar à base de dados
 ```
 # Como implementar
 
@@ -49,8 +48,8 @@ As funções no meu projeto são:
   13. Clicar em "Importar", na navbar. <br>
   14. Clicar no botão "Escolher ficheiro" e selecionar o ficheiro .sql, que foi disponibilizado. <br>
   15. Voltar ao menu "MySQL Database", para verificar os dados de acesso da base de dados.
-  16. Ir ao "Online File Maneger", ir a pasta em que colocou os ficheiros e abrir o ficheiro config.php e colocar os dados de acesso a base de dados. <b>Observação</b>: No MySQL Database, o primeiro campo representa o último campo do ficheiro config.php, o último campo do MySQL representa o primeiro campo do ficheiro.php e os dois campos do meio mantêm-se igual, por fim deve <b>salvar o ficheiro</b> config.php.
-  17. Para acabar deves aceder a página web, o link está no email enviado, ao criar a conta. <b>Observação</b>: Tem que colocar, depois do fim do link, o seguinte complemento "/nome da pasta/nome do ficheiro(neste caso "admin_page.php")"
+  16. Ir ao "Online File Maneger", ir a pasta em que colocou os ficheiros e abrir o ficheiro config.php e colocar os dados de acesso a base de dados. <b>Observação</b>: No MySQL Database, o primeiro campo representa o último campo do ficheiro config.php, o último campo do MySQL representa o primeiro campo do ficheiro.php e os dois campos do meio mantêm-se igual, por fim deve <b>salvar o ficheiro</b> config.php. <br>
+  17. Para acabar deves aceder a página web, o link está no email enviado, ao criar a conta. <b>Observação</b>: Tem que colocar, depois do fim do link, o seguinte complemento "/nome da pasta/nome do ficheiro(neste caso "admin_page.php")" <br>
 
   
   
