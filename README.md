@@ -11,6 +11,23 @@ As funções no meu projeto são:
 # Requesitos
   1. **Base de dados** - phpMyAdmin
   2. **Alojamento Web** - Alojamento Grátis
+# Estrutura de Fichieros
+
+├── /css/                     # Pasta que guarda o css
+      ├── style.css           # Arquivo de css
+├── /db/                      # Pasta que guarda a base de dados
+      ├── cart_db.sql         # Arquivo de base de dados
+├── /images/                  # Pasta que guarda as imagens que podem ser usadas(opcional)
+      ├── food-1.png          # Arquivo de foto
+      ├── food-2.png          # Arquivo de foto
+      ├── food-3.png          # Arquivo de foto
+      ├── food-4.png          # Arquivo de foto
+      ├── food-5.png          # Arquivo de foto
+├── /uploaded_img/            # Pasta que guarda imagens que foram enviadas para a base de dados
+├── admin_page.php            # Página principal do site
+├── admin_update.php          # Página para adicionar produto
+├── config.php                # Página para conectar a base de dados
+└── README.md                 # Este arquivo
 
 # Como implementar
 
@@ -27,4 +44,6 @@ As funções no meu projeto são:
   9. Ciar uma nova pasta ou usar a pasta htdocs e colocar os ficheiros, exeto o ficheiro da base de dados. <br>
   10. Voltar ao CPanel e clicar em "MySQL Databases". <br>
   11. Dar um nome a base de dados e clicar no botão "Create Database". <br>
+  12. Clicar no botão admin, respetivo a base de dados criada, na tabela em baixo. <br>
+  13. 
   
